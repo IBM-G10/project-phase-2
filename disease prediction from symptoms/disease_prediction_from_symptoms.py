@@ -125,7 +125,7 @@ Symptom4.set(None)
 Symptom5 = StringVar()
 Symptom5.set(None)
 
-w2 = Label(root, justify=LEFT, text=" Disease Prediction From Symptoms by G16 group")
+w2 = Label(root, justify=LEFT, text=" Disease Prediction From Symptoms by G10 group")
 w2.config(font=("Elephant", 30))
 w2.grid(row=1, column=0, columnspan=2, padx=100)
 
